@@ -1,0 +1,18 @@
+asgiref==3.5.2
+colorama==0.4.6
+distlib==0.3.6
+Django==4.1.3
+filelock==3.8.0
+# Editable Git install with no remote (firstdjangoproject==0.0.post1.dev1+g3547ca7)
+-e c:\users\ebara\pycharmprojects\firstdjangoproject
+packaging==21.3
+platformdirs==2.5.4
+pluggy==1.0.0
+py==1.11.0
+pyparsing==3.0.9
+six==1.16.0
+sqlparse==0.4.3
+tomli==2.0.1
+tox==3.27.1
+tzdata==2022.7
+virtualenv==20.17.0
